@@ -12,7 +12,7 @@ public class Main {
             if (i > 8)
                 System.out.println("high time to exit");
             else
-                System.out.println("i = " + ++i);
+                System.out.println("i = " + i);
         }
     }
 }
